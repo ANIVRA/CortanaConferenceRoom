@@ -69,7 +69,7 @@ Cortana requires an appropriate recording device, and the system must be associa
 
 1. If you download the ZIP, be sure to unzip the entire archive. 
 2. Start Microsoft Visual Studio 2015 and select **File** \> **Open** \> **Project/Solution**.
-3. Starting in the folder where you unzipped the samples, go to the subfolder, then Double-click the Visual Studio 2015 Solution (.sln) file.
+3. Starting in the folder where you unzipped the samples, go to the subfolder "cs", then Double-click the Visual Studio 2015 Solution (.sln) file.
 4. Press Ctrl+Shift+B, or select **Build** \> **Build Solution**.
 
 ## Run the sample
