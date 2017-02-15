@@ -3,7 +3,7 @@
   samplefwlink: http://go.microsoft.com/fwlink/p/?LinkId=619899
 --->
 
-# Cortana voice command sample
+# Cortana Voice Command Definition (VCD) Example
 
 Shows how to integrate with Cortana by providing Voice Command Definitions (VCDs) that allow an app to be invoked in a variety of ways.
 
@@ -39,7 +39,7 @@ Infix and suffix forms are also supported.
 **The following commands don't make much sense, but you'll get the point**
 
 - "I am your father in Conference Room"
-- "Play my COnference ROom use the force "  
+- "Play my Conference Room use the force "  
 
 
 ## Related topics and information
