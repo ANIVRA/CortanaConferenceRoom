@@ -1,0 +1,17 @@
+C:\Temp\ConferenceRoomCommand\CortanaVoiceCommand\cs\ConferenceRoom.shared\bin\ARM\Debug\ConferenceRoom.Shared.dll
+C:\Temp\ConferenceRoomCommand\CortanaVoiceCommand\cs\ConferenceRoom.shared\bin\ARM\Debug\ConferenceRoom.Shared.pdb
+C:\Temp\ConferenceRoomCommand\CortanaVoiceCommand\cs\ConferenceRoom.shared\bin\ARM\Debug\ConferenceRoom.Shared.pri
+C:\Temp\ConferenceRoomCommand\CortanaVoiceCommand\cs\ConferenceRoom.shared\obj\ARM\Debug\ConferenceRoom.Model.csprojResolveAssemblyReference.cache
+C:\Temp\ConferenceRoomCommand\CortanaVoiceCommand\cs\ConferenceRoom.shared\obj\ARM\Debug\ConferenceRoom.Shared.dll
+C:\Temp\ConferenceRoomCommand\CortanaVoiceCommand\cs\ConferenceRoom.shared\obj\ARM\Debug\ConferenceRoom.Shared.pdb
+C:\Temp\ConferenceRoomCommand\CortanaVoiceCommand\cs\ConferenceRoom.shared\obj\ARM\Debug\priconfig.xml
+C:\Temp\ConferenceRoomCommand\CortanaVoiceCommand\cs\ConferenceRoom.shared\obj\ARM\Debug\priconfig.xml.intermediate
+C:\Temp\ConferenceRoomCommand\CortanaVoiceCommand\cs\ConferenceRoom.shared\obj\ARM\Debug\layout.resfiles
+C:\Temp\ConferenceRoomCommand\CortanaVoiceCommand\cs\ConferenceRoom.shared\obj\ARM\Debug\layout.resfiles.intermediate
+C:\Temp\ConferenceRoomCommand\CortanaVoiceCommand\cs\ConferenceRoom.shared\obj\ARM\Debug\resources.resfiles
+C:\Temp\ConferenceRoomCommand\CortanaVoiceCommand\cs\ConferenceRoom.shared\obj\ARM\Debug\resources.resfiles.intermediate
+C:\Temp\ConferenceRoomCommand\CortanaVoiceCommand\cs\ConferenceRoom.shared\obj\ARM\Debug\pri.resfiles
+C:\Temp\ConferenceRoomCommand\CortanaVoiceCommand\cs\ConferenceRoom.shared\obj\ARM\Debug\pri.resfiles.intermediate
+C:\Temp\ConferenceRoomCommand\CortanaVoiceCommand\cs\ConferenceRoom.shared\obj\ARM\Debug\qualifiers.txt
+C:\Temp\ConferenceRoomCommand\CortanaVoiceCommand\cs\ConferenceRoom.shared\obj\ARM\Debug\qualifiers.txt.intermediate
+C:\Temp\ConferenceRoomCommand\CortanaVoiceCommand\cs\ConferenceRoom.shared\obj\ARM\Debug\MultipleQualifiersPerDimensionFound.txt

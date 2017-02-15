@@ -1,0 +1,19 @@
+﻿<Page
+    x:Class="ConferenceRoom.View.SWIntro"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:ConferenceRoom.View"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+        <TextBlock x:Name="PageTitle" Text="Imperial March" Style="{StaticResource ScenarioHeaderTextStyle}"
+                        IsHitTestVisible="false" TextWrapping="NoWrap" VerticalAlignment="Top" Margin="10,12,10,12"/>
+
+        <MediaPlayerElement x:Name="MediaSimple" />
+        <Image x:Name="SWImage" HorizontalAlignment="Left" Height="710" VerticalAlignment="Top" Width="1270" />
+
+    </Grid>
+</Page>

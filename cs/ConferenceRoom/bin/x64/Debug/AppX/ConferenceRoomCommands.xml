@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<VoiceCommands xmlns="http://schemas.microsoft.com/voicecommands/1.2">
+  <CommandSet xml:lang="en-us" Name="ConferenceRoomCommandSet_en-us">
+    <AppName> Conference Room </AppName>
+    <Example> Red Alert </Example>
+
+    <Command Name="redAlert">
+      <Example> Red Alert </Example>
+      <ListenFor RequireAppName="BeforeOrAfterPhrase"> red alert </ListenFor>
+      <ListenFor RequireAppName="ExplicitlySpecified"> {builtin:AppName} red alert </ListenFor>
+      <Feedback> Arming phase cannons and raising shields. </Feedback>
+      <!--<VoiceCommandService Target="VoiceCommandService"/>-->
+      <Navigate />
+    </Command>
+    
+        <Command Name="releaseNight">
+      <Example> Release Night </Example>
+      <ListenFor RequireAppName="BeforeOrAfterPhrase"> release night </ListenFor>
+      <ListenFor RequireAppName="ExplicitlySpecified"> {builtin:AppName} release night </ListenFor>
+      <Feedback> Release night baby. </Feedback>
+      <!--<VoiceCommandService Target="VoiceCommandService"/>-->
+      <Navigate />
+    </Command>
+
+    <Command Name="starWarsIntro">
+      <Example> Use the force </Example>
+      <ListenFor RequireAppName="BeforeOrAfterPhrase"> Use the force </ListenFor>
+      <ListenFor RequireAppName="ExplicitlySpecified"> play [my] {builtin:AppName} use the force </ListenFor>
+      <Feedback> A long time ago, in a galaxy, far, far, away... </Feedback>
+      <!--<VoiceCommandService Target="VoiceCommandService"/>-->
+      <Navigate />
+    </Command>
+
+    <Command Name="imperialMarch">
+      <Example> I am your father </Example>
+      <ListenFor RequireAppName="BeforeOrAfterPhrase"> I am your father </ListenFor>
+      <ListenFor RequireAppName="ExplicitlySpecified"> play [my] {builtin:AppName} I am your father </ListenFor>
+      <Feedback>  as you wish, Lord Vayder! </Feedback>
+      <!--<VoiceCommandService Target="VoiceCommandService"/>-->
+      <Navigate />
+    </Command>
+
+    <Command Name="cf_Twitter">
+      <Example> Check Twitter</Example>
+      <ListenFor RequireAppName="BeforeOrAfterPhrase"> check twitter </ListenFor>
+      <ListenFor RequireAppName="ExplicitlySpecified"> check [my] {builtin:AppName} twitter </ListenFor>
+      <Feedback> The bird is the word.  Tweet, tweet! </Feedback>
+      <!--<VoiceCommandService Target="VoiceCommandService"/>-->
+      <Navigate />
+    </Command>
+
+    <Command Name="cf_FaceBook">
+      <Example> Check Facebook </Example>
+      <ListenFor RequireAppName="BeforeOrAfterPhrase"> check facebook </ListenFor>
+      <ListenFor RequireAppName="ExplicitlySpecified"> check [my] {builtin:AppName} facebook </ListenFor>
+      <Feedback> Please like me on facebook. </Feedback>
+      <!--<VoiceCommandService Target="VoiceCommandService"/>-->
+      <Navigate />
+    </Command>
+    
+    <!--<PhraseList Label="">
+      <Item></Item>
+    </PhraseList>-->
+  </CommandSet>
+</VoiceCommands>
